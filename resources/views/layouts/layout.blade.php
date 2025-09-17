@@ -48,8 +48,8 @@
             <div class="row">
                 <div class="col-lg-7 col-md-9">
                     <ul>
-                        <li><i class="fa fa-phone mr-10"></i>(012) 345 657 900</li>
-                        <li><i class="fa fa-envelope mr-10"></i>support@yourdomain.com</li>
+                        <li><i class="fa fa-phone mr-10"></i>(+233) xxx xxx xxxx</li>
+                        <li><i class="fa fa-envelope mr-10"></i>info@ecogreenguard.com</li>
                     </ul>
                 </div>
                 <div class="col-lg-5 col-md-3">
@@ -67,7 +67,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <nav class="navbar navbar-expand-lg navbar-light px-0">
-                        <a class="navbar-brand" href="/"><img src="images/logo_rec.png" class="col-5" alt="logo"></a>
+                        <a class="navbar-brand" href="/"><img src="images/logo_rec.png" class="col-sm-12 col-lg-5" alt="logo"></a>
                         <button class="toggle-btn" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                             <span></span>
                             <span></span>
@@ -114,7 +114,7 @@
                     <h3 class="footer-widget-title position-relative va-lb-line-w50-h2-primary pb-15 mb-20 color-white">Links</h3>
                     <ul class="hover-white-primary link-list-b-15">
                         <li><a href="/">Home</a></li>
-                        <li><a href="/services">Our Services</a></li>
+                        <li><a href="/services">Services</a></li>
                         <li><a href="#">About</a></li>
                         <li><a href="#">Contact Us</a></li>
                     </ul>
@@ -125,8 +125,8 @@
                 <div class="footer-widget color-white">
                     <h3 class="footer-widget-title position-relative va-lb-line-w50-h2-primary pb-15 mb-20 color-white">Contact Info</h3>
                     <ul class="widget-contact-info color-white icon-primary link-list-b-15 mt-30">
-                        <li><span class="mr-20"><i class="fa fa-phone" aria-hidden="true"></i></span> (012) 345 657 900</li>
-                        <li><span class="mr-20"><i class="fa fa-envelope" aria-hidden="true"></i></span> info@yourdomain.com</li>
+                        <li><span class="mr-20"><i class="fa fa-phone" aria-hidden="true"></i></span> (+233) xxx xxx xxxx</li>
+                        <li><span class="mr-20"><i class="fa fa-envelope" aria-hidden="true"></i></span> info@ecogreenguard.com</li>
                         <li><span class="mr-20"><i class="fa fa-map-marker" aria-hidden="true"></i></span>ECO GREEN GUARD LTD<br>
                             Accra, Ghana</li>
                     </ul>
