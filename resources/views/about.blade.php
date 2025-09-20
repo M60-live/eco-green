@@ -31,7 +31,7 @@
 {{--                        <span class="color-primary">History</span>--}}
                         <h2 class="position-relative va-c-line-w50-h1-primary pb-15 mb-20">Company Story</h2>
                         <p>
-                            ECO GREEN GUARD LTD is a multi-disciplinary consulting and service company committed to
+                            ECO GREEN GUARD LTD is a multidisciplinary consulting and service company committed to
                             delivering innovative, sustainable, and high-quality solutions across Africa.
                         </p>
                     </div>
