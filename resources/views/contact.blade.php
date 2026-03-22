@@ -67,7 +67,7 @@
                         <ul class="color-secondery">
                             <li>
                                 Phone :
-                                <span>(+233) xxx xxx xxxx</span>
+                                <span>+233 244 660 454 / +233 245 142 414</span>
                             </li>
                             <li>
                                 Email :
