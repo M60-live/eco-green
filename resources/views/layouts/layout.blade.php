@@ -10,7 +10,7 @@
     <meta name="author" content="Alpha to Beta Systems">
 
     <!-- Favicon Icon -->
-    <link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
+    <link rel="shortcut icon" type="image/x-icon" href="images/fav.png">
 
     <!-- Title -->
     <title>Eco Green Guard</title>
