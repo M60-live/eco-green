@@ -5,9 +5,16 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="keywords" content="">
-    <meta name="author" content="root">
+    <meta name="description" content="Environmental & Water Management">
+    <meta name="keywords" content="Environmental & Water Management, Waste Management, Industrial Logistics">
+    <meta name="author" content="Alpha to Beta Systems">
+
+    <!-- Favicon Icon -->
+    <link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
+
+    <!-- Title -->
+    <title>Eco Green Guard</title>
+
     <!-- css Links
     ====================================================-->
     <link rel="stylesheet" href="/css/bootstrap.min.css">
@@ -26,13 +33,6 @@
     ======================================================-->
     <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;600;700;800;900&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap" rel="stylesheet">
-
-    <!-- Title -->
-    <title>Eco Green Guard LTD</title>
-
-    <!-- Favicon Icon -->
-    <link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
-
 </head>
 <body id="top">
 <!-- Start Back to top
@@ -48,7 +48,7 @@
             <div class="row">
                 <div class="col-lg-7 col-md-9">
                     <ul>
-                        <li><i class="fa fa-phone mr-10"></i>(+233) xxx xxx xxxx</li>
+                        <li><i class="fa fa-phone mr-10"></i>(+233) 244 660 454 | (+233) 245 142 414</li>
                         <li><i class="fa fa-envelope mr-10"></i>info@ecogreenguard.com</li>
                     </ul>
                 </div>
