@@ -35,13 +35,13 @@
 
                             <div class="col-12 col-md-6 col-lg-6 col-xl-4">
                                 <div class="box-style-3 position-relative flat-large icon-primary py-40 px-30 bg-white shadow-thik-black-01-hov transition-5 hov-trans-b-t-5 shadow-smooth-black-01 mt-30">
-                                    <a href="service-details.html">
-                                        <h4 class="box-title-3 my-20 d-inline-block">Environmental & Water Management</h4>
+                                    <a href="#">
+                                        <h4 class="box-title-3 my-20 d-inline-block">Water, Sanitation and Hygiene</h4>
                                     </a>
                                     <ul class="list-group">
-                                        <li class="list-group-item">Environmental Impact Assessments (EIA)</li>
-                                        <li class="list-group-item">Water Resource Assessment & Hydrogeological Surveys</li>
-                                        <li class="list-group-item">Groundwater Monitoring & Modelling</li>
+                                        <li class="list-group-item">Water-demand and supply assessments; rural/urban water-supply planning; Water Supply Infrastructure</li>
+                                        <li class="list-group-item">Sanitation needs assessments; onsite sanitation; latrine and septic-system planning; faecal sludge management; wastewater collection and treatment; sanitation infrastructure assessment</li>
+                                        <li class="list-group-item">Hygiene-risk assessments; hand washing facilities; safe water handling and storage; hygiene promotion; community health and safety; waterborne-disease risk reduction</li>
                                         <li class="list-group-item">Surface Water Management & Drainage Design</li>
                                         <li class="list-group-item">Environmental Compliance Auditing & Permitting</li>
                                     </ul>
@@ -50,7 +50,7 @@
 
                             <div class="col-12 col-md-6 col-lg-6 col-xl-4">
                                 <div class="box-style-3 position-relative flat-large icon-primary py-40 px-30 bg-white shadow-thik-black-01-hov transition-5 hov-trans-b-t-5 shadow-smooth-black-01 mt-30">
-                                    <a href="service-details.html">
+                                    <a href="#">
                                         <h4 class="box-title-3 my-20 d-inline-block">EHS & Waste Management</h4>
                                     </a>
                                     <ul class="list-group">
@@ -65,7 +65,7 @@
 
                             <div class="col-12 col-md-6 col-lg-6 col-xl-4">
                                 <div class="box-style-3 position-relative flat-large icon-primary py-40 px-30 bg-white shadow-thik-black-01-hov transition-5 hov-trans-b-t-5 shadow-smooth-black-01 mt-30">
-                                    <a href="service-details.html">
+                                    <a href="#">
                                         <h4 class="box-title-3 my-20 d-inline-block">Medical Supplies & Equipment</h4>
                                     </a>
                                     <ul class="list-group">
@@ -80,7 +80,7 @@
 
                             <div class="col-12 col-md-6 col-lg-6 col-xl-4">
                                 <div class="box-style-3 position-relative flat-large icon-primary py-40 px-30 bg-white shadow-thik-black-01-hov transition-5 hov-trans-b-t-5 shadow-smooth-black-01 mt-30">
-                                    <a href="service-details.html">
+                                    <a href="#">
                                         <h4 class="box-title-3 my-20 d-inline-block">Mining & Industrial Logistics</h4>
                                     </a>
                                     <ul class="list-group">
@@ -94,7 +94,7 @@
 
                             <div class="col-12 col-md-6 col-lg-6 col-xl-4">
                                 <div class="box-style-3 position-relative flat-large icon-primary py-40 px-30 bg-white shadow-thik-black-01-hov transition-5 hov-trans-b-t-5 shadow-smooth-black-01 mt-30">
-                                    <a href="service-details.html">
+                                    <a href="#">
                                         <h4 class="box-title-3 my-20 d-inline-block">Construction & Project Management</h4>
                                     </a>
                                     <ul class="list-group">
@@ -108,7 +108,7 @@
 
                             <div class="col-12 col-md-6 col-lg-6 col-xl-4">
                                 <div class="box-style-3 position-relative flat-large icon-primary py-40 px-30 bg-white shadow-thik-black-01-hov transition-5 hov-trans-b-t-5 shadow-smooth-black-01 mt-30">
-                                    <a href="service-details.html">
+                                    <a href="#">
                                         <h4 class="box-title-3 my-20 d-inline-block">Laboratory Services</h4>
                                     </a>
                                     <ul class="list-group">
@@ -121,7 +121,7 @@
 
                             <div class="col-12 col-md-6 col-lg-6 col-xl-4">
                                 <div class="box-style-3 position-relative flat-large icon-primary py-40 px-30 bg-white shadow-thik-black-01-hov transition-5 hov-trans-b-t-5 shadow-smooth-black-01 mt-30">
-                                    <a href="service-details.html">
+                                    <a href="#">
                                         <h4 class="box-title-3 my-20 d-inline-block">Transport & General Logistics</h4>
                                     </a>
                                     <ul class="list-group">
@@ -135,7 +135,7 @@
 
                             <div class="col-12 col-md-6 col-lg-6 col-xl-4">
                                 <div class="box-style-3 position-relative flat-large icon-primary py-40 px-30 bg-white shadow-thik-black-01-hov transition-5 hov-trans-b-t-5 shadow-smooth-black-01 mt-30">
-                                    <a href="service-details.html">
+                                    <a href="#">
                                         <h4 class="box-title-3 my-20 d-inline-block">Training & Capacity Building</h4>
                                     </a>
                                     <ul class="list-group">
@@ -149,7 +149,7 @@
 
                             <div class="col-12 col-md-6 col-lg-6 col-xl-4">
                                 <div class="box-style-3 position-relative flat-large icon-primary py-40 px-30 bg-white shadow-thik-black-01-hov transition-5 hov-trans-b-t-5 shadow-smooth-black-01 mt-30">
-                                    <a href="service-details.html">
+                                    <a href="#">
                                         <h4 class="box-title-3 my-20 d-inline-block">Procurement Services</h4>
                                     </a>
                                     <ul class="list-group">

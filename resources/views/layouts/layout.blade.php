@@ -48,7 +48,7 @@
             <div class="row">
                 <div class="col-lg-7 col-md-9">
                     <ul>
-                        <li><i class="fa fa-phone mr-10"></i>(+233) 244 660 454 | (+233) 245 142 414</li>
+                        <li><i class="fa fa-phone mr-10"></i>(+233) 245 142 414 | (+233) 244 660 454</li>
                         <li><i class="fa fa-envelope mr-10"></i>info@ecogreenguard.com</li>
                     </ul>
                 </div>
@@ -125,7 +125,7 @@
                 <div class="footer-widget color-white">
                     <h3 class="footer-widget-title position-relative va-lb-line-w50-h2-primary pb-15 mb-20 color-white">Contact Info</h3>
                     <ul class="widget-contact-info color-white icon-primary link-list-b-15 mt-30">
-                        <li><span class="mr-20"><i class="fa fa-phone" aria-hidden="true"></i></span> (+233) 244 660 454 / <br>(+233) 245 142 414</li>
+                        <li><span class="mr-20"><i class="fa fa-phone" aria-hidden="true"></i></span> (+233) 245 142 414 / <br>(+233) 244 660 454</li>
                         <li><span class="mr-20"><i class="fa fa-envelope" aria-hidden="true"></i></span> info@ecogreenguard.com</li>
                         <li><span class="mr-20"><i class="fa fa-map-marker" aria-hidden="true"></i></span>ECO GREEN GUARD LTD<br>
                             Accra, Ghana</li>
